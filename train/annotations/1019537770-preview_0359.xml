@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <folder>folder</folder>
+  <filename>1019537770-preview_0359.jpg</filename>
+  <source>
+    <database>my database</database>
+    <annotation>my annotation</annotation>
+    <image>some content</image>
+    <flickrid>someId</flickrid>
+  </source>
+  <owner>
+    <flickrid>moshe</flickrid>
+    <name>moshe</name>
+  </owner>
+  <size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ball</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>301.065521</xmin>
+      <ymin>414.994385</ymin>
+      <xmax>332.065521</xmax>
+      <ymax>462.994385</ymax>
+    </bndbox>
+  </object>
+</annotation>
